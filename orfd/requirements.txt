@@ -1,0 +1,9 @@
+flask
+bert-serving-server
+bert-serving-client
+requests
+BeautifulSoup4
+pandas
+numpy
+sklearn
+apscheduler

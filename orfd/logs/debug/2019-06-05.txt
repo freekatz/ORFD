@@ -1,0 +1,30 @@
+06/05/2019 15:16:18 PM - INFO - 
+---------------------
+https://bj.58.com/yewu/32093900041423x.shtml
+== >{"score": "38.10382289134861", "vec_result": "0.595", "doc_result": "0.1238782140710231", "analysis_result": [{"contact": "0"}, {"origin_length": 433, "process_length": 0, "content": 1, "requirement": 1, "salary": 1, "welfare": 1, "work_time": 1, "contact": 0, "email": 0, "url": 0}, {"origin_length": 594, "job_content": 0, "requirement": 0, "salary": 1, "welfare": 1, "work_time": 0}]}
+---------------------
+06/05/2019 15:16:18 PM - INFO - 127.0.0.1 - - [05/Jun/2019 15:16:18] "[37mGET /query/?detail_url=https://bj.58.com/yewu/32093900041423x.shtml HTTP/1.1[0m" 201 -
+06/05/2019 15:16:33 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:10809
+06/05/2019 15:16:33 PM - DEBUG - http://127.0.0.1:10809 "GET http://bj.58.com/yewu/30841746604857x.shtml HTTP/1.1" 302 258
+06/05/2019 15:16:33 PM - DEBUG - Starting new HTTPS connection (1): bj.58.com:443
+06/05/2019 15:16:33 PM - DEBUG - https://bj.58.com:443 "GET /yewu/30841746604857x.shtml HTTP/1.1" 200 None
+06/05/2019 15:16:33 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:10809
+06/05/2019 15:16:34 PM - DEBUG - http://127.0.0.1:10809 "GET http://qy.58.com/45781346214669/?entinfo=30841746604857_3 HTTP/1.1" 200 None
+06/05/2019 15:16:34 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:10809
+06/05/2019 15:16:34 PM - DEBUG - http://127.0.0.1:10809 "GET http://qy.58.com/ent/detail/45781346214669 HTTP/1.1" 200 4957
+06/05/2019 15:16:34 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:10809
+06/05/2019 15:16:34 PM - DEBUG - http://127.0.0.1:10809 "GET http://qy.58.com/ent/infolist/45781346214669/1 HTTP/1.1" 200 874
+06/05/2019 15:16:34 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:10809
+06/05/2019 15:16:34 PM - DEBUG - http://127.0.0.1:10809 "GET http://jianli.58.com/ajax/getefrate/45781346214669 HTTP/1.1" 200 60
+06/05/2019 15:16:34 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:10809
+06/05/2019 15:16:34 PM - DEBUG - http://127.0.0.1:10809 "GET http://bj.58.com/yewu/30841746604857x.shtml HTTP/1.1" 302 258
+06/05/2019 15:16:34 PM - DEBUG - Starting new HTTPS connection (1): bj.58.com:443
+06/05/2019 15:16:35 PM - DEBUG - https://bj.58.com:443 "GET /yewu/30841746604857x.shtml HTTP/1.1" 200 None
+06/05/2019 15:16:35 PM - DEBUG - Starting new HTTP connection (1): 127.0.0.1:10809
+06/05/2019 15:16:35 PM - DEBUG - http://127.0.0.1:10809 "GET http://statisticszp.58.com/position/totalcount/?infoId=30841746604857&userId=45781346214669 HTTP/1.1" 200 None
+06/05/2019 15:16:36 PM - INFO - 
+---------------------
+https://bj.58.com/yewu/30841746604857x.shtml
+== >{"score": "55.25952595429048", "vec_result": "0.74", "doc_result": "0.3273540606466401", "analysis_result": [{"contact": "0"}, {"origin_length": 484, "process_length": 0, "content": 1, "requirement": 1, "salary": 0, "welfare": 0, "work_time": 1, "contact": 0, "email": 0, "url": 0}, {"origin_length": 391, "job_content": 0, "requirement": 1, "salary": 0, "welfare": 0, "work_time": 0}]}
+---------------------
+06/05/2019 15:16:36 PM - INFO - 127.0.0.1 - - [05/Jun/2019 15:16:36] "[37mGET /query/?detail_url=https://bj.58.com/yewu/30841746604857x.shtml HTTP/1.1[0m" 201 -
