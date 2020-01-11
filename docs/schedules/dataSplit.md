@@ -18,7 +18,7 @@
 
 强迫症的话还可以将 Default 改回 NULL。
 
-![增加 city 字段](../res/schedules/dataSpilt/add-city.png)
+![增加 city 字段](../res/schedules/dataSplit/add-city.png)
 
 当然，你也可以直接增加 jobCity 字段 Default 为 NULL，然后再执行全体数据更新 jobCity 为你当前的城市。
 
@@ -56,8 +56,8 @@
 
 参考结果为：
 
-![result-1](../res/schedules/dataSpilt/result-1.png)
+![result-1](../res/schedules/dataSplit/result-1.png)
 
 
 
-![result-2](../res/schedules/dataSpilt/result-2.png)
+![result-2](../res/schedules/dataSplit/result-2.png)
