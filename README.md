@@ -21,7 +21,6 @@ This is our project documention of the 2019 national information security compet
 部署文件比较大，如果需要部署测试可提 issue 或可先查看：[部署](./docs/issue/作品核心功能环境部署及使用须知.pdf)
 
 <hr></hr>
-
 ## 成员分工
 
 略
@@ -55,6 +54,8 @@ This is our project documention of the 2019 national information security compet
 [参考文献目录](https://github.com/zjh567/orfd/tree/master/docs/papers)
 
 <hr></hr>
+
+
 ## LICENSE
 
 [项目 License：GPL 3.0](./LICENSE)
