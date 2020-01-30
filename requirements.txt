@@ -6,4 +6,3 @@ BeautifulSoup4
 pandas
 numpy
 sklearn
-apscheduler

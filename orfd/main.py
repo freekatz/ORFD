@@ -245,9 +245,9 @@ def main(bc, input_data, step_1=0, step_2=5, choice="vec", clf=None, name="rf"):
 	:param input_data: 可以为 df，也可以为 list
 	:param step_1: 处理阶段
 	:param step_2: 主函数处理阶段
-	:param choice:
-	:param clf:
-	:param name:
+	:param choice: vec or doc
+	:param clf: 机器学习分类模型
+	:param name: 训练好的模型名字
 	:return: 处理结果、其他描述信息
 	'''
 	if choice == "doc":
@@ -275,3 +275,7 @@ def main(bc, input_data, step_1=0, step_2=5, choice="vec", clf=None, name="rf"):
 		data, desc = data_main(bc, input_data, step=0, choice=choice)
 		result = classific(data, choice=choice, name=name)
 		return result[0], desc
+
+if __name__ == '__main__':
+	# 运行逻辑见 main 函数
+	pass
