@@ -8,7 +8,10 @@ This is our project documention of the 2019 national information security compet
 
 ## 项目数据集
 
-地址：[Excels](https://github.com/zjh567/orfd/tree/master/orfd/Core/excels)
+地址：
+[Excels](https://github.com/zjh567/orfd/tree/master/orfd/Core/excels)
+或经过预处理
+[Datasets](https://github.com/zjh567/orfd/tree/master/orfd/Core/dataset)
 
 人工标记的数据，耗费了大量的人力，这可能是**国内第一份**关于**虚假招聘**且**带标签**的数据集。
 
