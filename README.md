@@ -19,6 +19,10 @@ This is our project documention of the 2019 national information security compet
 
 不过由于网站改版，58 和智联的爬虫代码有一部分接口过时了，所以本仓库没有提供相关代码
 
+## 测试
+
+查看轻量版: [ORFD-Vector](https://github.com/1uvu/ORFD-Vector)
+
 ## 项目流程图
 
 ![作品流程图](./docs/README.assets/作品流程图.png)
