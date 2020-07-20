@@ -34,9 +34,6 @@ This is our project documention of the 2019 national information security compet
 **测试**：测试向量分类可在安装好环境后直接运行 tests-vec.py 查看运行结果。如果部署好了文本编码服务也可直接运行 tests.py 查看运行结果
 
 <hr></hr>
-## 成员分工
-
-略
 
 ## 项目文档
 
